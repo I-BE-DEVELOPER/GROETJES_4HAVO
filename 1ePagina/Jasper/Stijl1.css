@@ -1,0 +1,59 @@
+body {
+  background-color: grey;
+}
+
+H1 {	
+  font-family: verdana;
+  color: white; 
+  font-size: 40px;
+  font-family: Bembo;
+  text-align: center;
+} 
+
+H2 {	
+  font-family: verdana;
+  color: white; 
+  font-size: 35px;
+  font-family: Bembo;
+  text-align: ;
+}
+
+H3 {	
+  font-family: verdana;
+  color: white; 
+  font-size: 30px;
+  font-family: Bembo;
+  text-align: ;
+}
+
+H4 {	
+  font-family: verdana;
+  color: white; 
+  font-size: 20px;
+  font-family: Bembo;
+  text-align: ;
+}
+
+H5 {	
+  font-family: verdana;
+  color: white; 
+  font-size: 15px;
+  font-family: Bembo;
+}
+
+IMG {
+	 border-width: 10px;  
+    border-style: double;
+	border-color: white;
+	float: right; 
+}
+
+audio {
+	 border-width: 10px;  
+    border-style: double;
+	border-color: white;
+	float: right; 
+}
+
+
+https://www.thecut.com/2020/01/grammy-awards-2020-red-carpet-our-15-favorite-looks.html

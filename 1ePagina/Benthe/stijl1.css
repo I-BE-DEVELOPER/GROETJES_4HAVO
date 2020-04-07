@@ -1,0 +1,65 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Cordia New;
+  float: center
+}
+
+a {
+  color: white;
+  font-family: Cordia New;
+  font-size: 23px;
+  float: left
+}
+
+
+H2{
+  font-family: Cordia New;
+  font-size: 20px;
+  color: white;
+  float: left;
+
+}
+
+H3{
+  font-family: Cordia New;
+  font-size: 20px;
+  color: white;
+  float: left;
+
+}
+
+H4{
+  font-family: Cordia New;
+  font-size: 20px;
+  color: white;
+  float: left;
+
+}
+
+H5{
+  font-family: Cordia New;
+  font-size: 20px;
+  color: white;
+  float: left;
+
+}
+
+H6{
+  font-family: Cordia New;
+  font-size: 20px;
+  color: white;
+  float: left;
+
+}
+
+img {
+	border: double;
+	border-color: white;
+	border-width: 7px;
+
+}
